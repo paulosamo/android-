@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">paulosamo</string>
+    <string name="title_activity_about2">AboutActivity2</string>
+    <string name="title_activity_images">images</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_abc">AbcActivity</string>
+    <string name="title_activity_assign">AssignActivity</string>
+    <string name="title_activity_new">NewActivity</string>
+</resources>

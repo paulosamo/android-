@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pablo</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_ma">MaActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
